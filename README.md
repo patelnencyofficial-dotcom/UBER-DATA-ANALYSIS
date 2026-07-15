@@ -32,7 +32,7 @@ A relational dataset spanning **8 tables**: `trips`, `drivers`, `riders`, `users
 | Data cleaning & EDA | Python — pandas, numpy |
 | Visualization | matplotlib, seaborn |
 | Machine Learning | scikit-learn (Linear Regression, Random Forest) |
-| Dashboard | Tableau / Power BI *(in progress)* |
+| Dashboard | Power BI *(in progress)* |
 
 ---
 
@@ -70,7 +70,7 @@ uber-analytics-project/
 3. **Machine Learning** — a fare-prediction model built on the cleaned trip data, benchmarked and interpreted.
 4. **Dashboard** *(coming soon)* — an interactive summary layer on top of all of the above.
 
-> 📄 **[See `sql/README.md`](sql/README.md) for the full index of all 40+ SQL questions**, including data validation checks and a few operational deep-dives that don't have a chart below — not every finding needs a visual to matter.
+> 📄 **[See `sql/README.md`]("C:\Users\vrutupatel\OneDrive\Desktop\uber project\UBER-DATA-ANALYSIS\SQL\README.md") for the full index of all 40+ SQL questions**, including data validation checks and a few operational deep-dives that don't have a chart below — not every finding needs a visual to matter.
 >
 > 📄 **[See `python/README.md`](python/README.md) for a phase-by-phase breakdown of the EDA & ML script**, including what each phase covers and how to run it.
 
